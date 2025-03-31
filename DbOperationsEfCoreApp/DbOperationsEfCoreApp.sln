@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbOperationsEfCoreApp", "DbOperationsEfCoreApp\DbOperationsEfCoreApp.csproj", "{F99B2534-1D50-433D-A6F2-6D1533BB466A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F99B2534-1D50-433D-A6F2-6D1533BB466A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99B2534-1D50-433D-A6F2-6D1533BB466A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99B2534-1D50-433D-A6F2-6D1533BB466A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99B2534-1D50-433D-A6F2-6D1533BB466A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC9BEFC-44D1-4B5E-9443-94D5F31565F0}
+	EndGlobalSection
+EndGlobal
